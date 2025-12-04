@@ -45,8 +45,5 @@ Here are the three issues I am most concerned about:
 2. **Caustics Tuning** — The caustics can easily become too bright or too fast, so balancing them requires experimenting.  
 3. **Performance** — A dense water mesh with several wave functions may reduce the frame rate, so I may need to find a balance.
 
----
-
-## **Expected Result / Sketch**
 
 
